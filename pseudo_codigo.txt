@@ -1,0 +1,14 @@
+var tentativas
+var letras erradas
+
+Entrada de uma palavra 
+	palavra com exatamente 5 letras 
+	# é uma palavra aceita? 
+
+	acertou?
+		sim - fim do game = win
+		+/- - mostra as letras certas e as erradas + consome tentativas + (fim?)
+		nao - consome tentativas + (fim?)
+	é a 5 tentativa? (fim?)
+		nao - volta pro inicio
+		sim - fim do game = lose
